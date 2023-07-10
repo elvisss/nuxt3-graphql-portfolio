@@ -1,3 +1,12 @@
+---
+title: Hello world!
+description: This is my first blog post
+date: 2023-05-23
+cover: clement-helardot-95YRwf6CNw8-unsplash.jpg
+tags:
+  - blog
+---
+
 # Hello, World 👋🏻
 
 This is a paragraph.
