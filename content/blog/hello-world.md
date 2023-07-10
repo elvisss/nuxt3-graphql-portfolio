@@ -1,8 +1,8 @@
 ---
-title: Hello world!
-description: This is my first blog post
+title: Hello, World!
+description: This is my very first blog post and I'm so excited to share it with you!
 date: 2023-05-23
-cover: clement-helardot-95YRwf6CNw8-unsplash.jpg
+cover: nasa-Q1p7bh3SHj8-unsplash.jpg
 tags:
   - blog
 ---

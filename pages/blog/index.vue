@@ -7,12 +7,7 @@
   subscribe to an RSS feed you can find it here.
 
   <section class="grid md:grid-cols-3 mt-8 gap-10">
-    <!-- <Post :posts="posts" /> -->
-    <ul>
-      <li v-for="post in posts" :key="post._id">
-        <a href="#">{{ post.title }}</a>
-      </li>
-    </ul>
+    <Post :posts="posts" />
   </section>
 </template>
 
@@ -21,5 +16,3 @@ const { data: posts } = await useAsyncData('posts', () =>
   queryContent('/blog').find()
 )
 </script>
-
-<style lang="scss" scoped></style>
