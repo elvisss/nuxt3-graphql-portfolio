@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h1 class="text-5xl font-bold mt-20">Hello, I'm Elvis Saavedra!</h1>
+    <h1 class="text-5xl font-bold mt-10">Hello, I'm Elvis Saavedra!</h1>
     <p class="text-base text-gray-900 p-2 italic">Web Developer</p>
   </section>
 
